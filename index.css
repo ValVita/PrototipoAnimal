@@ -1,0 +1,16 @@
+.pagina-inicial-child {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  height: 97px;
+}
+.pagina-inicial {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+}

@@ -1,0 +1,7 @@
+.seguimineto-peso {
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  height: 1024px;
+  overflow: hidden;
+}

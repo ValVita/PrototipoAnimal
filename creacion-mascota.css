@@ -1,0 +1,48 @@
+.creacin-de-mascota {
+  position: absolute;
+  top: 142px;
+  left: 316px;
+  font-size: var(--subtitulo-size);
+  font-weight: 300;
+}
+.creacion-mascota-child {
+  position: absolute;
+  top: 273px;
+  left: 337px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 150px;
+  height: 150px;
+}
+.foto {
+  position: absolute;
+  top: 348px;
+  left: 365px;
+}
+.creacion-mascota-item {
+  position: absolute;
+  top: 502px;
+  left: 276px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 320px;
+  height: 53px;
+}
+.nombre {
+  position: absolute;
+  top: 449px;
+  left: 279px;
+}
+.creacion-mascota {
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--textinterno-size);
+  color: var(--color-black);
+  font-family: var(--boton);
+}

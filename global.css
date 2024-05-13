@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --boton: Raleway;
+
+  /* font sizes */
+  --boton-size: 43px;
+  --textinterno-size: 40px;
+  --cuerpo1-size: 50px;
+  --subtitulo-size: 60px;
+  --piepagina-size: 30px;
+  --titulo-size: 90px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro: #d9d9d9;
+  --fondo: #f2fdff;
+  --color-black: #000;
+  --color-powderblue: #b5eaf8;
+  --color-whitesmoke: #f7f6f8;
+  --nuevo: #00e190;
+
+  /* Border radiuses */
+  --br-14xl: 33px;
+}
